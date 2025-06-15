@@ -1,30 +1,11 @@
 <template>
-    <header>
-        <h1>Arvin Babaei</h1>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#projects">Projects</a>
-            <a href="#lab">Lab</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
+  <header class="bg-gray-900 text-white px-8 py-4 flex justify-between items-center">
+    <h1 class="text-2xl font-bold">Arvin Babaei</h1>
+    <nav>
+      <a href="#about" class="ml-6 hover:underline">About</a>
+      <a href="#projects" class="ml-6 hover:underline">Projects</a>
+      <a href="#lab" class="ml-6 hover:underline">Lab</a>
+      <a href="#contact" class="ml-6 hover:underline">Contact</a>
+    </nav>
+  </header>
 </template>
-
-<style scoped>
-header {
-  background: #222;
-  color: white;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-nav a {
-  color: white;
-  margin-left: 1rem;
-  text-decoration: none;
-}
-nav a:hover {
-  text-decoration: underline;
-}
-</style>
