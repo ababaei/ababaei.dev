@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Header from './components/Header.vue'
-import Footer from './components/Footer.vue'
 import About from './views/About.vue'
 import Projects from './views/Projects.vue'
 import Lab from './views/Lab.vue'
