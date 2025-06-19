@@ -7,9 +7,9 @@ import Contact from './views/Contact.vue'
 </script>
 
 <template>
+  <Header class="fixed top-0 left-0 w-full h-16 bg-white z-50 shadow"/>
   <div class="h-screen w-screen snap-y snap-mandatory scroll-smooth overflow-y-scroll">
-    <Header class="sticky top-0"/>
-    <main class="">
+    <main>
       <About />
       <Projects />
       <Lab />
