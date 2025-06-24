@@ -45,8 +45,10 @@
         <div class="overflow-y-auto max-h-[40vh] p-2 border text-justify text-sm sm:text-base ">
           <h2 class="text-lg font-semibold mb-2">col2 row2</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-            Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+            I'm Arvin Babaei. A developper based in the south of France, currently progressing through the the advanced cursus at school 42.
+            I grew up navigating the internet, fascinated by all the pages and worlds people had created.  Now that I'm older and able to build such places, I'd really like to collaborate with people who have creative and unique ideas so we can work together and make them come to life.
+            I'm looking for projects that will help me grow, build experience, and shape my identity as a web developer.
+            Above all, I'm drawn to the intersection of technology and art — experimenting to see not just what can be made, but how it can emerge. 
           </p>
         </div>
       </div>
